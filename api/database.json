@@ -1,0 +1,70 @@
+{
+    "inventory": [
+        {
+            "id": 1,
+            "make": "Roland",
+            "model": "Juno 106",
+            "type": "analog synthesizer",
+            "rentalPrice": 75,
+            "shippingPrice": 100,
+            "picture": "",
+            "soundDemo": "",
+            "description": "Since its release in 1984, the Juno 106 has been an iconic staple of many genres. The 106 offers six voice polyphony, 128 banks of patch memory, and full MIDI capability. Our one-of-a-kind unit boasts a custom purple/yellow wrap and LED mod."
+        },
+        {
+            "id": 2,
+            "make": "Roland",
+            "model": "Juno 60",
+            "type": "analog synthesizer",
+            "rentalPrice": 80,
+            "shippingPrice": 120,
+            "picture": "",
+            "soundDemo": "",
+            "description": ""
+        },
+        {
+            "id": 3,
+            "make": "Korg",
+            "model": "Poly 800",
+            "type": "analog synthesizer",
+            "rentalPrice": 50,
+            "shippingPrice": 80,
+            "picture": "",
+            "soundDemo": "",
+            "description": ""
+        },
+        {
+            "id": 4,
+            "make": "Moog",
+            "model": "Grandmother",
+            "type": "analog synthesizer",
+            "rentalPrice": 60,
+            "shippingPrice": 80,
+            "picture": "",
+            "soundDemo": "",
+            "description": ""
+        },
+        {
+            "id": 5,
+            "make": "Dave Smith",
+            "model": "Prophet REV2 Module",
+            "type": "analog synthesizer",
+            "rentalPrice": 24,
+            "shippingPrice": 50,
+            "picture": "",
+            "soundDemo": "",
+            "description": ""
+        },
+        {
+            "id": 1,
+            "make": "Roland",
+            "model": "Juno 106",
+            "type": "analog synthesizer",
+            "rentalPrice": 75,
+            "shippingPrice": 100,
+            "picture": "",
+            "soundDemo": "",
+            "description": "Since its release in 1984, the Juno 106 has been an iconic staple of many genres. The 106 offers six voice polyphony, 128 banks of patch memory, and full MIDI capability. Our one-of-a-kind unit boasts a custom purple/yellow wrap and LED mod."
+        },
+    ]
+}
