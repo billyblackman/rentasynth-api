@@ -110,6 +110,104 @@
             "soundDemo": "",
             "description": ""
         },
-        
-    ]
+        {
+            "id": 11,
+            "make": "Universal Audio",
+            "model": "4-710D",
+            "type": "preamp",
+            "rentalPrice": 80,
+            "shippingPrice": 60,
+            "picture": "",
+            "soundDemo": "",
+            "description": ""
+        },
+        {
+            "id": 12,
+            "make": "Rode",
+            "model": "NT5",
+            "type": "condenser microphone",
+            "rentalPrice": 50,
+            "shippingPrice": 40,
+            "picture": "",
+            "soundDemo": "",
+            "description": ""
+        },
+        {
+            "id": 13,
+            "make": "Sennheiser",
+            "model": "e604",
+            "type": "dynamic microphone",
+            "rentalPrice": 50,
+            "shippingPrice": 40,
+            "picture": "",
+            "soundDemo": "",
+            "description": ""
+        },
+        {
+            "id": 14,
+            "make": "Electro-Voice",
+            "model": "RE20",
+            "type": "dynamic microphone",
+            "rentalPrice": 60,
+            "shippingPrice": 40,
+            "picture": "",
+            "soundDemo": "",
+            "description": ""
+        },
+        {
+            "id": 15,
+            "make": "Roland",
+            "model": "TR-707",
+            "type": "drum machine",
+            "rentalPrice": 65,
+            "shippingPrice": 50,
+            "picture": "",
+            "soundDemo": "",
+            "description": ""
+        },
+        {
+            "id": 16,
+            "make": "Roland",
+            "model": "TR-08",
+            "type": "drum machine",
+            "rentalPrice": 45,
+            "shippingPrice": 40,
+            "picture": "",
+            "soundDemo": "",
+            "description": ""
+        },
+        {
+            "id": 17,
+            "make": "Yamaha",
+            "model": "RM1x",
+            "type": "sequencer",
+            "rentalPrice": 45,
+            "shippingPrice": 40,
+            "picture": "",
+            "soundDemo": "",
+            "description": ""
+        },
+        {
+            "id": 18,
+            "make": "Pioneer",
+            "model": "Toraiz SP-16",
+            "type": "sequencer",
+            "rentalPrice": 55,
+            "shippingPrice": 40,
+            "picture": "",
+            "soundDemo": "",
+            "description": ""
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "firstName": "Billy",
+            "lastName": "Blackman",
+            "email": "me@me.com",
+            "password": "password"
+        }
+    ],
+    "orders": [],
+    "orderItems": []
 }
