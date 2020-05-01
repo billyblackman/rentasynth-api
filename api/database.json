@@ -1,213 +1,294 @@
 {
-    "inventory": [
-        {
-            "id": 1,
-            "make": "Roland",
-            "model": "Juno 106",
-            "type": "analog synthesizer",
-            "rentalPrice": 75,
-            "shippingPrice": 100,
-            "picture": "",
-            "soundDemo": "",
-            "description": "Since its release in 1984, the Juno 106 has been an iconic staple of many genres. The 106 offers six voice polyphony, 128 banks of patch memory, and full MIDI capability. Our one-of-a-kind unit boasts a custom purple/yellow wrap and LED mod."
-        },
-        {
-            "id": 2,
-            "make": "Roland",
-            "model": "Juno 60",
-            "type": "analog synthesizer",
-            "rentalPrice": 80,
-            "shippingPrice": 120,
-            "picture": "",
-            "soundDemo": "",
-            "description": ""
-        },
-        {
-            "id": 3,
-            "make": "Korg",
-            "model": "Poly 800",
-            "type": "analog synthesizer",
-            "rentalPrice": 50,
-            "shippingPrice": 80,
-            "picture": "",
-            "soundDemo": "",
-            "description": ""
-        },
-        {
-            "id": 4,
-            "make": "Moog",
-            "model": "Grandmother",
-            "type": "analog synthesizer",
-            "rentalPrice": 60,
-            "shippingPrice": 80,
-            "picture": "",
-            "soundDemo": "",
-            "description": ""
-        },
-        {
-            "id": 5,
-            "make": "Dave Smith",
-            "model": "Prophet REV2 Module",
-            "type": "analog synthesizer",
-            "rentalPrice": 45,
-            "shippingPrice": 60,
-            "picture": "",
-            "soundDemo": "",
-            "description": ""
-        },
-        {
-            "id": 6,
-            "make": "Ensoniq",
-            "model": "SQ-80",
-            "type": "digital synthesizer",
-            "rentalPrice": 70,
-            "shippingPrice": 120,
-            "picture": "",
-            "soundDemo": "",
-            "description": ""
-        },
-        {
-            "id": 7,
-            "make": "Kawaii",
-            "model": "K1ii",
-            "type": "digital synthesizer",
-            "rentalPrice": 40,
-            "shippingPrice": 80,
-            "picture": "",
-            "soundDemo": "",
-            "description": ""
-        },
-        {
-            "id": 8,
-            "make": "ARP",
-            "model": "Odyssey",
-            "type": "analog synthesizer",
-            "rentalPrice": 60,
-            "shippingPrice": 60,
-            "picture": "",
-            "soundDemo": "",
-            "description": ""
-        },
-        {
-            "id": 9,
-            "make": "Korg",
-            "model": "Poly 61",
-            "type": "analog synthesizer",
-            "rentalPrice": 60,
-            "shippingPrice": 80,
-            "picture": "",
-            "soundDemo": "",
-            "description": ""
-        },
-        {
-            "id": 10,
-            "make": "Korg",
-            "model": "PolySix",
-            "type": "analog synthesizer",
-            "rentalPrice": 60,
-            "shippingPrice": 80,
-            "picture": "",
-            "soundDemo": "",
-            "description": ""
-        },
-        {
-            "id": 11,
-            "make": "Universal Audio",
-            "model": "4-710D",
-            "type": "preamp",
-            "rentalPrice": 80,
-            "shippingPrice": 60,
-            "picture": "",
-            "soundDemo": "",
-            "description": ""
-        },
-        {
-            "id": 12,
-            "make": "Rode",
-            "model": "NT5",
-            "type": "condenser microphone",
-            "rentalPrice": 50,
-            "shippingPrice": 40,
-            "picture": "",
-            "soundDemo": "",
-            "description": ""
-        },
-        {
-            "id": 13,
-            "make": "Sennheiser",
-            "model": "e604",
-            "type": "dynamic microphone",
-            "rentalPrice": 50,
-            "shippingPrice": 40,
-            "picture": "",
-            "soundDemo": "",
-            "description": ""
-        },
-        {
-            "id": 14,
-            "make": "Electro-Voice",
-            "model": "RE20",
-            "type": "dynamic microphone",
-            "rentalPrice": 60,
-            "shippingPrice": 40,
-            "picture": "",
-            "soundDemo": "",
-            "description": ""
-        },
-        {
-            "id": 15,
-            "make": "Roland",
-            "model": "TR-707",
-            "type": "drum machine",
-            "rentalPrice": 65,
-            "shippingPrice": 50,
-            "picture": "",
-            "soundDemo": "",
-            "description": ""
-        },
-        {
-            "id": 16,
-            "make": "Roland",
-            "model": "TR-08",
-            "type": "drum machine",
-            "rentalPrice": 45,
-            "shippingPrice": 40,
-            "picture": "",
-            "soundDemo": "",
-            "description": ""
-        },
-        {
-            "id": 17,
-            "make": "Yamaha",
-            "model": "RM1x",
-            "type": "sequencer",
-            "rentalPrice": 45,
-            "shippingPrice": 40,
-            "picture": "",
-            "soundDemo": "",
-            "description": ""
-        },
-        {
-            "id": 18,
-            "make": "Pioneer",
-            "model": "Toraiz SP-16",
-            "type": "sequencer",
-            "rentalPrice": 55,
-            "shippingPrice": 40,
-            "picture": "",
-            "soundDemo": "",
-            "description": ""
-        }
-    ],
-    "users": [
-        {
-            "id": 1,
-            "firstName": "Billy",
-            "lastName": "Blackman",
-            "email": "me@me.com",
-            "password": "password"
-        }
-    ],
-    "orders": [],
-    "orderItems": []
+  "inventory": [
+    {
+      "id": 1,
+      "make": "Roland",
+      "model": "Juno 106",
+      "type": "analog synthesizer",
+      "rentalPrice": 75,
+      "shippingPrice": 100,
+      "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
+      "soundDemo": "",
+      "description": "Since its release in 1984, the Juno 106 has been an iconic staple of many genres. The 106 offers six voice polyphony, 128 banks of patch memory, and full MIDI capability. Our one-of-a-kind unit boasts a custom purple/yellow wrap and LED mod."
+    },
+    {
+      "id": 2,
+      "make": "Roland",
+      "model": "Juno 60",
+      "type": "analog synthesizer",
+      "rentalPrice": 80,
+      "shippingPrice": 120,
+      "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
+      "soundDemo": "",
+      "description": ""
+    },
+    {
+      "id": 3,
+      "make": "Korg",
+      "model": "Poly 800",
+      "type": "analog synthesizer",
+      "rentalPrice": 50,
+      "shippingPrice": 80,
+      "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
+      "soundDemo": "",
+      "description": ""
+    },
+    {
+      "id": 4,
+      "make": "Moog",
+      "model": "Grandmother",
+      "type": "analog synthesizer",
+      "rentalPrice": 60,
+      "shippingPrice": 80,
+      "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
+      "soundDemo": "",
+      "description": ""
+    },
+    {
+      "id": 5,
+      "make": "Dave Smith",
+      "model": "Prophet REV2 Module",
+      "type": "analog synthesizer",
+      "rentalPrice": 45,
+      "shippingPrice": 60,
+      "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
+      "soundDemo": "",
+      "description": ""
+    },
+    {
+      "id": 6,
+      "make": "Ensoniq",
+      "model": "SQ-80",
+      "type": "digital synthesizer",
+      "rentalPrice": 70,
+      "shippingPrice": 120,
+      "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
+      "soundDemo": "",
+      "description": ""
+    },
+    {
+      "id": 7,
+      "make": "Kawaii",
+      "model": "K1ii",
+      "type": "digital synthesizer",
+      "rentalPrice": 40,
+      "shippingPrice": 80,
+      "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
+      "soundDemo": "",
+      "description": ""
+    },
+    {
+      "id": 8,
+      "make": "ARP",
+      "model": "Odyssey",
+      "type": "analog synthesizer",
+      "rentalPrice": 60,
+      "shippingPrice": 60,
+      "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
+      "soundDemo": "",
+      "description": ""
+    },
+    {
+      "id": 9,
+      "make": "Korg",
+      "model": "Poly 61",
+      "type": "analog synthesizer",
+      "rentalPrice": 60,
+      "shippingPrice": 80,
+      "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
+      "soundDemo": "",
+      "description": ""
+    },
+    {
+      "id": 10,
+      "make": "Korg",
+      "model": "PolySix",
+      "type": "analog synthesizer",
+      "rentalPrice": 60,
+      "shippingPrice": 80,
+      "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
+      "soundDemo": "",
+      "description": ""
+    },
+    {
+      "id": 11,
+      "make": "Universal Audio",
+      "model": "4-710D",
+      "type": "preamp",
+      "rentalPrice": 80,
+      "shippingPrice": 60,
+      "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
+      "soundDemo": "",
+      "description": ""
+    },
+    {
+      "id": 12,
+      "make": "Rode",
+      "model": "NT5",
+      "type": "condenser microphone",
+      "rentalPrice": 50,
+      "shippingPrice": 40,
+      "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
+      "soundDemo": "",
+      "description": ""
+    },
+    {
+      "id": 13,
+      "make": "Sennheiser",
+      "model": "e604",
+      "type": "dynamic microphone",
+      "rentalPrice": 50,
+      "shippingPrice": 40,
+      "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
+      "soundDemo": "",
+      "description": ""
+    },
+    {
+      "id": 14,
+      "make": "Electro-Voice",
+      "model": "RE20",
+      "type": "dynamic microphone",
+      "rentalPrice": 60,
+      "shippingPrice": 40,
+      "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
+      "soundDemo": "",
+      "description": ""
+    },
+    {
+      "id": 15,
+      "make": "Roland",
+      "model": "TR-707",
+      "type": "drum machine",
+      "rentalPrice": 65,
+      "shippingPrice": 50,
+      "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
+      "soundDemo": "",
+      "description": ""
+    },
+    {
+      "id": 16,
+      "make": "Roland",
+      "model": "TR-08",
+      "type": "drum machine",
+      "rentalPrice": 45,
+      "shippingPrice": 40,
+      "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
+      "soundDemo": "",
+      "description": ""
+    },
+    {
+      "id": 17,
+      "make": "Yamaha",
+      "model": "RM1x",
+      "type": "sequencer",
+      "rentalPrice": 45,
+      "shippingPrice": 40,
+      "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
+      "soundDemo": "",
+      "description": ""
+    },
+    {
+      "id": 18,
+      "make": "Pioneer",
+      "model": "Toraiz SP-16",
+      "type": "sequencer",
+      "rentalPrice": 55,
+      "shippingPrice": 40,
+      "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
+      "soundDemo": "",
+      "description": ""
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Billy",
+      "lastName": "Blackman",
+      "email": "me@me.com",
+      "password": "password"
+    },
+    {
+      "email": "new@new.com",
+      "password": "password",
+      "firstName": "New",
+      "lastName": "Person",
+      "id": 2
+    },
+    {
+      "email": "new@new.com",
+      "password": "password",
+      "firstName": "Newer",
+      "lastName": "Person",
+      "id": 3
+    }
+  ],
+  "orders": [],
+  "orderItems": [
+    {
+      "userId": "1",
+      "inventoryId": 1,
+      "orderStartDate": "2020-06-05T05:00:00.000Z",
+      "orderEndDate": "2020-06-06T05:00:00.000Z",
+      "id": 1
+    },
+    {
+      "userId": "1",
+      "inventoryId": 3,
+      "orderStartDate": "2020-05-27T05:00:00.000Z",
+      "orderEndDate": "2020-06-02T05:00:00.000Z",
+      "id": 2
+    },
+    {
+      "userId": "1",
+      "inventoryId": 5,
+      "orderStartDate": "2020-05-26T05:00:00.000Z",
+      "orderEndDate": "2020-05-31T05:00:00.000Z",
+      "id": 3
+    },
+    {
+      "userId": "1",
+      "inventoryId": 6,
+      "orderStartDate": "2020-06-03T05:00:00.000Z",
+      "orderEndDate": "2020-05-31T05:00:00.000Z",
+      "id": 4
+    },
+    {
+      "userId": "1",
+      "inventoryId": 12,
+      "orderStartDate": "2020-06-03T05:00:00.000Z",
+      "orderEndDate": "2020-06-04T05:00:00.000Z",
+      "id": 5
+    },
+    {
+      "userId": "1",
+      "inventoryId": 11,
+      "orderStartDate": "2020-05-30T05:00:00.000Z",
+      "orderEndDate": "2020-06-01T05:00:00.000Z",
+      "id": 6
+    },
+    {
+      "userId": "1",
+      "inventoryId": 8,
+      "orderStartDate": "2020-06-02T05:00:00.000Z",
+      "orderEndDate": "2020-06-03T05:00:00.000Z",
+      "rentalLength": 1,
+      "id": 7
+    },
+    {
+      "userId": "1",
+      "inventoryId": 14,
+      "orderStartDate": "2020-05-25T05:00:00.000Z",
+      "orderEndDate": "2020-05-30T05:00:00.000Z",
+      "rentalLength": 5,
+      "id": 8
+    },
+    {
+      "userId": "1",
+      "inventoryId": 2,
+      "orderStartDate": "2020-05-14T05:00:00.000Z",
+      "orderEndDate": "2020-05-23T05:00:00.000Z",
+      "rentalLength": 9,
+      "id": 9
+    }
+  ]
 }
