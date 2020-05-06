@@ -222,25 +222,76 @@
       "id": 3
     }
   ],
-  "orders": [],
-  "orderItems": [
+  "orders": [
     {
-      "userId": "1",
-      "inventoryId": 1,
-      "orderStartDate": "2020-05-21T05:00:00.000Z",
-      "orderEndDate": "2020-05-28T05:00:00.000Z",
+      "userId": "2",
+      "totalPrice": null,
+      "resolved": false,
       "ordered": false,
-      "rentalLength": 7,
+      "shippingCost": 120,
       "id": 1
     },
     {
       "userId": "1",
-      "inventoryId": 5,
-      "orderStartDate": "2020-06-01T05:00:00.000Z",
-      "orderEndDate": "2020-06-17T05:00:00.000Z",
+      "totalPrice": null,
+      "resolved": false,
       "ordered": false,
-      "rentalLength": 16,
+      "shippingCost": 80,
       "id": 2
+    }
+  ],
+  "orderItems": [
+    {
+      "userId": "2",
+      "orderId": 1,
+      "inventoryId": 2,
+      "orderStartDate": "2020-05-13T05:00:00.000Z",
+      "orderEndDate": "2020-05-20T05:00:00.000Z",
+      "ordered": false,
+      "shipping": false,
+      "shippingCost": 120,
+      "rentalLength": 7,
+      "totalRentalPrice": 560,
+      "id": 1
+    },
+    {
+      "userId": "2",
+      "orderId": 1,
+      "inventoryId": 4,
+      "orderStartDate": "2020-05-13T05:00:00.000Z",
+      "orderEndDate": "2020-05-21T05:00:00.000Z",
+      "ordered": false,
+      "shipping": false,
+      "shippingCost": 80,
+      "rentalLength": 8,
+      "totalRentalPrice": 480,
+      "id": 2
+    },
+    {
+      "userId": "1",
+      "orderId": 2,
+      "inventoryId": 3,
+      "orderStartDate": "2020-05-13T05:00:00.000Z",
+      "orderEndDate": "2020-05-20T05:00:00.000Z",
+      "ordered": false,
+      "shipping": false,
+      "shippingCost": 80,
+      "rentalLength": 7,
+      "totalRentalPrice": 350,
+      "id": 3
+    },
+    {
+      "userId": "1",
+      "orderId": 2,
+      "inventoryId": 6,
+      "orderStartDate": "2020-05-12T05:00:00.000Z",
+      "orderEndDate": "2020-05-20T05:00:00.000Z",
+      "ordered": false,
+      "shipping": false,
+      "shippingCost": 120,
+      "rentalLength": 8,
+      "totalRentalPrice": 560,
+      "id": 4
     }
   ]
 }
