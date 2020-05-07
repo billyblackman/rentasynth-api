@@ -5,11 +5,11 @@
       "make": "Roland",
       "model": "Juno 106",
       "type": "analog synthesizer",
-      "rentalPrice": 75,
+      "rentalPrice": 70,
       "shippingPrice": 100,
       "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
       "soundDemo": "",
-      "description": "Since its release in 1984, the Juno 106 has been an iconic staple of many genres. The 106 offers six voice polyphony, 128 banks of patch memory, and full MIDI capability. Our one-of-a-kind unit boasts a custom purple/yellow wrap and LED mod."
+      "description": "Since its release way back in 1984, the Juno 106 has been an iconic staple of many genres. The 106 offers six voice polyphony, 128 banks of patch memory, and full MIDI capability. Our one-of-a-kind unit boasts a custom purple/yellow wrap and LED mod."
     },
     {
       "id": 2,
@@ -224,7 +224,7 @@
   ],
   "orders": [
     {
-      "userId": "1",
+      "userId": "2",
       "totalPrice": null,
       "resolved": false,
       "ordered": true,
@@ -232,9 +232,9 @@
       "id": 1
     },
     {
-      "userId": "1",
+      "userId": "2",
       "totalPrice": null,
-      "resolved": false,
+      "resolved": true,
       "ordered": true,
       "shippingCost": 0,
       "id": 2
@@ -243,128 +243,63 @@
       "userId": "2",
       "totalPrice": null,
       "resolved": false,
-      "ordered": true,
+      "ordered": false,
       "shippingCost": 0,
       "id": 3
     }
   ],
   "orderItems": [
     {
-      "userId": "1",
+      "userId": "2",
       "orderId": 1,
-      "inventoryId": 5,
+      "inventoryId": 1,
       "orderStartDate": "2020-05-11T05:00:00.000Z",
-      "orderEndDate": "2020-05-19T05:00:00.000Z",
+      "orderEndDate": "2020-05-15T05:00:00.000Z",
       "ordered": true,
       "shipping": false,
       "shippingCost": 0,
-      "rentalLength": 8,
-      "totalRentalPrice": 360,
+      "rentalLength": 4,
+      "totalRentalPrice": 280,
       "id": 1
     },
     {
-      "userId": "1",
-      "orderId": 1,
-      "inventoryId": 6,
-      "orderStartDate": "2020-05-07T05:00:00.000Z",
-      "orderEndDate": "2020-05-14T05:00:00.000Z",
-      "ordered": true,
-      "shipping": true,
-      "shippingCost": 120,
-      "rentalLength": 7,
-      "totalRentalPrice": 490,
-      "id": 2
-    },
-    {
-      "userId": "1",
-      "orderId": 1,
-      "inventoryId": 12,
-      "orderStartDate": "2020-05-12T05:00:00.000Z",
-      "orderEndDate": "2020-05-20T05:00:00.000Z",
-      "ordered": true,
-      "shipping": false,
-      "shippingCost": 0,
-      "rentalLength": 8,
-      "totalRentalPrice": 400,
-      "id": 4
-    },
-    {
-      "userId": "1",
-      "orderId": 2,
-      "inventoryId": 10,
-      "orderStartDate": "2020-05-14T05:00:00.000Z",
-      "orderEndDate": "2020-05-21T05:00:00.000Z",
-      "ordered": true,
-      "shipping": false,
-      "shippingCost": 0,
-      "rentalLength": 7,
-      "totalRentalPrice": 420,
-      "id": 5
-    },
-    {
-      "userId": "1",
-      "orderId": 2,
-      "inventoryId": 11,
-      "orderStartDate": "2020-05-07T05:00:00.000Z",
-      "orderEndDate": "2020-05-21T05:00:00.000Z",
-      "ordered": true,
-      "shipping": true,
-      "shippingCost": 60,
-      "rentalLength": 14,
-      "totalRentalPrice": 1120,
-      "id": 6
-    },
-    {
-      "userId": "1",
-      "orderId": 2,
-      "inventoryId": 12,
-      "orderStartDate": "2020-05-14T05:00:00.000Z",
-      "orderEndDate": "2020-05-21T05:00:00.000Z",
-      "ordered": true,
-      "shipping": true,
-      "shippingCost": 40,
-      "rentalLength": 7,
-      "totalRentalPrice": 350,
-      "id": 7
-    },
-    {
       "userId": "2",
-      "orderId": 3,
-      "inventoryId": 10,
-      "orderStartDate": "2020-05-13T05:00:00.000Z",
-      "orderEndDate": "2020-05-20T05:00:00.000Z",
+      "orderId": 1,
+      "inventoryId": 3,
+      "orderStartDate": "2020-05-25T05:00:00.000Z",
+      "orderEndDate": "2020-05-29T05:00:00.000Z",
       "ordered": true,
       "shipping": true,
       "shippingCost": 80,
-      "rentalLength": 7,
-      "totalRentalPrice": 420,
-      "id": 8
+      "rentalLength": 4,
+      "totalRentalPrice": 200,
+      "id": 2
     },
     {
       "userId": "2",
-      "orderId": 3,
+      "orderId": 2,
+      "inventoryId": 16,
+      "orderStartDate": "2020-05-25T05:00:00.000Z",
+      "orderEndDate": "2020-05-29T05:00:00.000Z",
+      "ordered": true,
+      "shipping": false,
+      "shippingCost": 0,
+      "rentalLength": 4,
+      "totalRentalPrice": 180,
+      "id": 3
+    },
+    {
+      "userId": "2",
+      "orderId": 2,
       "inventoryId": 15,
-      "orderStartDate": "2020-05-13T05:00:00.000Z",
-      "orderEndDate": "2020-05-21T05:00:00.000Z",
+      "orderStartDate": "2020-05-11T05:00:00.000Z",
+      "orderEndDate": "2020-05-15T05:00:00.000Z",
       "ordered": true,
-      "shipping": false,
-      "shippingCost": 0,
-      "rentalLength": 8,
-      "totalRentalPrice": 520,
-      "id": 9
-    },
-    {
-      "userId": "2",
-      "orderId": 3,
-      "inventoryId": 13,
-      "orderStartDate": "2020-05-07T05:00:00.000Z",
-      "orderEndDate": "2020-05-10T05:00:00.000Z",
-      "ordered": true,
-      "shipping": false,
-      "shippingCost": 0,
-      "rentalLength": 3,
-      "totalRentalPrice": 150,
-      "id": 10
+      "shipping": true,
+      "shippingCost": 50,
+      "rentalLength": 4,
+      "totalRentalPrice": 260,
+      "id": 4
     }
   ]
 }
