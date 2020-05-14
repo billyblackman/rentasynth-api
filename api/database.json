@@ -9,7 +9,7 @@
       "shippingPrice": 50,
       "picture": "http://www.vintagesynth.com/sites/default/files/2017-05/roland_juno106_angle.jpg",
       "soundDemo": "",
-      "description": "Since its release way back in 1984, the Juno 106 has been an iconic staple of many genres. The 106 offers six voice polyphony, 128 banks of patch memory, and full MIDI capability. Our one-of-a-kind unit boasts a custom purple/yellow wrap and LED mod."
+      "description": "61 keys / 6-voice polyphony / 128 banks of patch memory / Full MIDI capability / Custom wrap and LED mod"
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "shippingPrice": 100,
       "picture": "http://www.vintagesynth.com/sites/default/files/2017-05/roland_juno60_angle.jpg",
       "soundDemo": "",
-      "description": ""
+      "description": "61 keys / 6-voice polyphony / 76 banks of memory / Full MIDI capability"
     },
     {
       "id": 3,
@@ -31,7 +31,7 @@
       "shippingPrice": 50,
       "picture": "http://www.vintagesynth.com/sites/default/files/2017-05/korg_poly800_angle.jpg",
       "soundDemo": "",
-      "description": ""
+      "description": "49 keys / 8-voice polyphony / Full MIDI capability / 64 banks of memory / Moog Slayer mod installed"
     },
     {
       "id": 4,
@@ -42,7 +42,7 @@
       "shippingPrice": 50,
       "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
       "soundDemo": "",
-      "description": ""
+      "description": "32 keys / Monophonic / Semi-modular / "
     },
     {
       "id": 5,
@@ -53,7 +53,7 @@
       "shippingPrice": 60,
       "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
       "soundDemo": "",
-      "description": ""
+      "description": "Module version / 8-voice polyphony / 16x4 step sequencer"
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "shippingPrice": 50,
       "picture": "http://www.vintagesynth.com/sites/default/files/2017-05/ensoniq_sq80.jpg",
       "soundDemo": "",
-      "description": ""
+      "description": "61 keys / 75 waveforms / 8 track sequencer"
     },
     {
       "id": 7,
@@ -75,7 +75,7 @@
       "shippingPrice": 80,
       "picture": "http://www.vintagesynth.com/sites/default/files/2017-05/k1_ii.jpg",
       "soundDemo": "",
-      "description": ""
+      "description": "61 keys / 8 patch multi-timbral"
     },
     {
       "id": 8,
@@ -86,7 +86,7 @@
       "shippingPrice": 60,
       "picture": "http://www.vintagesynth.com/sites/default/files/2017-05/odyssey-2800.jpg",
       "soundDemo": "",
-      "description": ""
+      "description": "Duophonic / Sample and hold"
     },
     {
       "id": 9,
@@ -97,7 +97,7 @@
       "shippingPrice": 80,
       "picture": "http://www.vintagesynth.com/sites/default/files/2017-05/korg_poly61m_angle.jpg",
       "soundDemo": "",
-      "description": ""
+      "description": "61 keys / 6-voice polyphony"
     },
     {
       "id": 10,
@@ -108,7 +108,7 @@
       "shippingPrice": 80,
       "picture": "http://www.vintagesynth.com/sites/default/files/2017-05/korg_polysix.jpg",
       "soundDemo": "",
-      "description": ""
+      "description": "61 keys / 6-voice polyphony / 6-oscillator unison"
     },
     {
       "id": 11,
@@ -119,7 +119,7 @@
       "shippingPrice": 60,
       "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
       "soundDemo": "",
-      "description": ""
+      "description": "4 channels / Variable blend of FET and tube preamps / 1176-style compressor"
     },
     {
       "id": 12,
@@ -130,7 +130,7 @@
       "shippingPrice": 20,
       "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
       "soundDemo": "",
-      "description": ""
+      "description": "Matched pair condenser microphones"
     },
     {
       "id": 13,
@@ -141,7 +141,7 @@
       "shippingPrice": 40,
       "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
       "soundDemo": "",
-      "description": ""
+      "description": "3 pack / Individual drum mounts"
     },
     {
       "id": 14,
@@ -152,7 +152,7 @@
       "shippingPrice": 30,
       "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
       "soundDemo": "",
-      "description": ""
+      "description": "Dynamic microphone / Mic stand clip"
     },
     {
       "id": 15,
@@ -163,7 +163,7 @@
       "shippingPrice": 30,
       "picture": "http://www.vintagesynth.com/sites/default/files/2017-05/roland_tr707.jpg",
       "soundDemo": "",
-      "description": ""
+      "description": "10-voice polyphony / 64 banks of memory"
     },
     {
       "id": 16,
@@ -174,7 +174,7 @@
       "shippingPrice": 25,
       "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
       "soundDemo": "",
-      "description": ""
+      "description": "Roland Boutique replica of the TR-808"
     },
     {
       "id": 17,
@@ -185,7 +185,7 @@
       "shippingPrice": 30,
       "picture": "http://www.vintagesynth.com/sites/default/files/2017-05/yamaha_rm1x.jpg",
       "soundDemo": "",
-      "description": ""
+      "description": "16-voice sequencer / 50 banks of memory"
     },
     {
       "id": 18,
@@ -196,7 +196,7 @@
       "shippingPrice": 30,
       "picture": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/p960x960/53211103_359484971560784_3412520596649541632_o.jpg?_nc_cat=109&_nc_sid=dd9801&_nc_oc=AQlrGKXKc_0GXJ4M65vL8_oqgVBsxe4c90QnkYU4v9dvjOqCRXye3OQkhvp1ydcCQuA&_nc_ht=scontent-ort2-1.xx&_nc_tp=6&oh=3fd08fbb6510cbc685b008c483b29e43&oe=5ECEBCEC",
       "soundDemo": "",
-      "description": ""
+      "description": "Live sampling / Full MIDI capability / Prophet 6 filter"
     }
   ],
   "users": [
@@ -299,6 +299,14 @@
       "ordered": true,
       "shippingCost": 0,
       "id": 7
+    },
+    {
+      "userId": "2",
+      "totalPrice": null,
+      "resolved": false,
+      "ordered": false,
+      "shippingCost": 0,
+      "id": 8
     }
   ],
   "orderItems": [
